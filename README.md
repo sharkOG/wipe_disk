@@ -15,3 +15,5 @@
 * After deleting it, run the software again to prevent the data from being restored and viewed by others.
 * If you don't want your computer anymore and want to sell it to others second-hand, then after deleting your personal data, run this software to prevent your data from being recovered by others.
 * Some confidential files have been saved on your computer, and if you want to delete them completely, then delete them and then run this software.
+
+![image](https://github.com/user-attachments/assets/0ed6d4d6-3f8a-4233-8e88-fa9794e4379a)
