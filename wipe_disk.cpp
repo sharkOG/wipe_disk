@@ -37,7 +37,7 @@ bool write_random_data()
         file.write(buffer, buffer_size);
         if (!file)
         {
-            std::puts(xorstr_("[disk] writing failed disk may be full"));
+            std::puts(xorstr_("\n [disk] writing failed disk may be full"));
             break;
         }
 
